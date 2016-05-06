@@ -7,8 +7,13 @@ Shayne Ward,2,1,Louis Walsh
  Alexandra Burke, 5,1, Cheryl Cole
 
 
+<<<<<<< HEAD
 HEar i the change
 nhbbj
+=======
+HEar i the change ther are tru coding problem
+
+>>>>>>> 93036143d49a7ab681ead0acdc4f4292962226c4
  Joe McElderry
  Rebecca Ferguson, 7,2,Cheryl Cole
  2,1
